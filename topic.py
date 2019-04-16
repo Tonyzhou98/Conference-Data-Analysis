@@ -3,6 +3,8 @@ from sklearn.decomposition import LatentDirichletAllocation
 from gensim.corpora.dictionary import Dictionary
 from gensim.models.ldamodel import LdaModel
 from gensim.parsing.preprocessing import remove_stopwords
+from gensim.models import CoherenceModel
+import matplotlib.pyplot as plt
 import numpy as np
 
 
@@ -28,7 +30,7 @@ def list_inter(list_1, list_2):
 
 
 def topic_classification_gensim(filename_1, filename_2):
-    idf_1 = idf_list("idf05-07.txt")
+    idf_1 = idf_list("idf11-13.txt")
     idf_2 = idf_list("idf14-16.txt")
     common_texts = []
     with open(filename_1, 'r') as file:
@@ -41,11 +43,27 @@ def topic_classification_gensim(filename_1, filename_2):
                 common_texts.append(list_inter(line_1.split(' '), idf_1))
     common_dictionary = Dictionary(common_texts)
     common_corpus = [common_dictionary.doc2bow(text) for text in common_texts]
-    lda = LdaModel(common_corpus, id2word=common_dictionary, iterations=50, num_topics=30)
     '''
+    coherence_score = []
+    for i in range(20, 40):
+        lda = LdaModel(common_corpus, id2word=common_dictionary, iterations=50, num_topics=i)
+        coherence_model_lda = CoherenceModel(model=lda, texts=common_texts, dictionary=common_dictionary,
+                                             coherence='u_mass')
+        coherence_lda = coherence_model_lda.get_coherence()
+        print('\nCoherence Score: ', coherence_lda)
+        coherence_score.append(coherence_lda)
+    plt.plot(range(20, 40, 1), coherence_score)
+    plt.xlabel("Num Topics")
+    plt.ylabel("Coherence score")
+    plt.legend(("coherence_values"), loc='best')
+    plt.show() 
+    # how to find the optimal number of topics.
+    '''
+
+    lda = LdaModel(common_corpus, id2word=common_dictionary, iterations=50, num_topics=35)
     for index, topic in lda.show_topics(formatted=False, num_words=20, num_topics=30):
         print('Topic: {} \nWords: {}'.format(index, [w[0] for w in topic]))
-    '''
+    
     other_texts = []
     with open(filename_2, 'r') as file:
         for line in file:
@@ -62,14 +80,14 @@ def topic_classification_gensim(filename_1, filename_2):
         vector_1 = lda[seen_doc]
         for vec in vector_1:
             topic_11[vec[0]] = topic_11[vec[0]]+vec[1]
-    topic_11 = np.array(topic_11) / np.linalg.norm(topic_11)
-    print(topic_11)
+    # topic_11 = np.array(topic_11) / np.linalg.norm(topic_11)
+    # print(topic_11)
     for unseen_doc in other_corpus:
         vector = lda[unseen_doc]
         for vec in vector:
             topic_14[vec[0]] = topic_14[vec[0]]+vec[1]
-    topic_14 = np.array(topic_14)/np.linalg.norm(topic_14)
-    print(topic_14)
+    # topic_14 = np.array(topic_14)/np.linalg.norm(topic_14)
+    # print(topic_14)
 
 
 def topic_classification(filename):
