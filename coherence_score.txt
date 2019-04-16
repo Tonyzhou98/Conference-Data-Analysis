@@ -1,0 +1,239 @@
+Perplexity: -9.41375149798366 #topic: 40
+
+Coherence Score:  -4.3026660773043215
+
+Perplexity: -9.451978264692412 #topic: 41
+
+Coherence Score:  -4.279808598238965
+
+Perplexity: -9.465707568350009 #topic: 42
+
+Coherence Score:  -5.132978859867253
+
+Perplexity: -9.514394423838711 #topic: 43
+
+Coherence Score:  -4.2638663424813465
+
+Perplexity: -9.532062665544569 #topic: 44
+
+Coherence Score:  -5.115623364408308
+
+Perplexity: -9.595894100728394 #topic: 45
+
+Coherence Score:  -4.369203930812595
+
+Perplexity: -9.616031193123584 #topic: 46
+
+Coherence Score:  -4.821231310481177
+
+Perplexity: -9.646386023560442 #topic: 47
+
+Coherence Score:  -4.777385111981908
+
+Perplexity: -9.692203273959432 #topic: 48
+
+Coherence Score:  -4.716077387306066
+
+Perplexity: -9.711890443903181 #topic: 49
+
+Coherence Score:  -5.013185381446856
+
+Perplexity: -9.76287800448156 #topic: 50
+
+Coherence Score:  -4.8230105307788484
+
+Perplexity: -9.777559506732548 #topic: 51
+
+Coherence Score:  -4.931018041042014
+
+Perplexity: -9.828987423323584 #topic: 52
+
+Coherence Score:  -4.97144949431818
+
+Perplexity: -9.852548624329158 #topic: 53
+
+Coherence Score:  -5.09048909699263
+
+Perplexity: -9.888008717812163 #topic: 54
+
+Coherence Score:  -5.253657353560652
+
+Perplexity: -9.934568705155357 #topic: 55
+
+Coherence Score:  -5.484106816743223
+
+Perplexity: -9.960199701407374 #topic: 56
+
+Coherence Score:  -5.235029133221351
+
+Perplexity: -10.002254628780552 #topic: 57
+
+Coherence Score:  -5.516967119302035
+
+Perplexity: -10.02427016873493 #topic: 58
+
+Coherence Score:  -5.457025365625046
+
+Perplexity: -10.07976397154349 #topic: 59
+
+Coherence Score:  -5.008198958511795
+
+Perplexity: -10.098456537756782 #topic: 60
+
+Coherence Score:  -5.271442894151924
+
+Perplexity: -10.143951635267982 #topic: 61
+
+Coherence Score:  -5.332441321767036
+
+Perplexity: -10.164949222295782 #topic: 62
+
+Coherence Score:  -5.54014442127536
+
+Perplexity: -10.21201976680957 #topic: 63
+
+Coherence Score:  -5.2512086080080795
+
+Perplexity: -10.237131113944159 #topic: 64
+
+Coherence Score:  -5.559286641378171
+
+Perplexity: -10.253225248975564 #topic: 65
+
+Coherence Score:  -5.422138500894355
+
+Perplexity: -10.308744910540504 #topic: 66
+
+Coherence Score:  -5.025580860486687
+
+Perplexity: -10.337840062158643 #topic: 67
+
+Coherence Score:  -5.476924356424498
+
+Perplexity: -10.364344753796942 #topic: 68
+
+Coherence Score:  -5.950087836114475
+
+Perplexity: -10.409380953442897 #topic: 69
+
+Coherence Score:  -5.754646990782463
+
+Perplexity: -10.43845840668693 #topic: 70
+
+Coherence Score:  -5.3411561982651845
+
+Perplexity: -10.493100776271536 #topic: 71
+
+Coherence Score:  -5.2855641016605786
+
+Perplexity: -10.50765351440859 #topic: 72
+
+Coherence Score:  -5.837447541390448
+
+Perplexity: -10.547602052215595 #topic: 73
+
+Coherence Score:  -5.423452515155168
+
+Perplexity: -10.564444003467514 #topic: 74
+
+Coherence Score:  -5.641288124320849
+
+Perplexity: -10.605984061076745 #topic: 75
+
+Coherence Score:  -5.897718718308417
+
+Perplexity: -10.64601139150753 #topic: 76
+
+Coherence Score:  -5.863879606839109
+
+Perplexity: -10.672094974131651 #topic: 77
+
+Coherence Score:  -5.733022961444238
+
+Perplexity: -10.725585299806081 #topic: 78
+
+Coherence Score:  -5.511415045997948
+
+Perplexity: -10.733961893809125 #topic: 79
+
+Coherence Score:  -5.901354385519083
+
+Perplexity: -10.773873737541505 #topic: 80
+
+Coherence Score:  -5.941568458262807
+
+Perplexity: -10.805374970100592 #topic: 81
+
+Coherence Score:  -6.19089687772215
+
+Perplexity: -10.845974844991348 #topic: 82
+
+Coherence Score:  -6.02567841814557
+
+Perplexity: -10.87542802684269 #topic: 83
+
+Coherence Score:  -5.908851161565962
+
+Perplexity: -10.910147968885472 #topic: 84
+
+Coherence Score:  -5.976459048945137
+
+Perplexity: -10.949526600970696 #topic: 85
+
+Coherence Score:  -6.0691519787982555
+
+Perplexity: -10.979016369666317 #topic: 86
+
+Coherence Score:  -5.899063584449319
+
+Perplexity: -11.014027674240008 #topic: 87
+
+Coherence Score:  -5.85922153055034
+
+Perplexity: -11.02807297915672 #topic: 88
+
+Coherence Score:  -6.005698528992543
+
+Perplexity: -11.07368262066797 #topic: 89
+
+Coherence Score:  -6.192854666417769
+
+Perplexity: -11.110821437206162 #topic: 90
+
+Coherence Score:  -6.086829648310088
+
+Perplexity: -11.135768113139507 #topic: 91
+
+Coherence Score:  -6.087276184372532
+
+Perplexity: -11.178702800962661 #topic: 92
+
+Coherence Score:  -6.325099408631351
+
+Perplexity: -11.201937278603316 #topic: 93
+
+Coherence Score:  -6.43005790478541
+
+Perplexity: -11.236248788487927 #topic: 94
+
+Coherence Score:  -6.3427227393289325
+
+Perplexity: -11.267737898218392 #topic: 95
+
+Coherence Score:  -6.061384934000364
+
+Perplexity: -11.322186380718222 #topic: 96
+
+Coherence Score:  -6.129188322501503
+
+Perplexity: -11.349077082955612 #topic: 97
+
+Coherence Score:  -5.925338632921063
+
+Perplexity: -11.374128764597607 #topic: 98
+
+Coherence Score:  -6.150751945300298
+
+Perplexity: -11.405418208212849 #topic: 99
+
+Coherence Score:  -6.103294390784806
