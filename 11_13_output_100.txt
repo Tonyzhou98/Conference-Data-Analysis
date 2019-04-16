@@ -1,0 +1,70 @@
+Topic: 0 
+Words: ['new', 'game', 'patch', 'rank', 'friendship', 'machine', 'target', 'tracking', 'loss', 'neighbor', 'pedestrian', 'patent', 'given', 'hashing', 'low', 'player', 'nearest', 'product', 'subspace', 'use']
+Topic: 1 
+Words: ['action', 'subspace', 'view', 'sparse', 'temporal', 'sampling', 'novel', 'different', 'matrix', 'collaborative', 'dimensional', 'dictionary', 'distribution', 'tree', 'variable', 'sparsity', 'use', 'bayesian', 'activity', 'specific']
+Topic: 2 
+Words: ['tracking', 'motion', 'appearance', 'tracker', 'non', 'novel', 'robust', 'new', 'online', 'rigid', 'depth', 'matching', 'occlusion', 'region', 'camera', 'text', 'track', 'stereo', 'map', 'estimate']
+Topic: 3 
+Words: ['face', 'label', 'classifier', 'supervised', 'sparse', 'discriminative', 'pose', 'learn', 'novel', 'forest', 'descriptor', 'new', 'appearance', 'use', 'rule', 'occlusion', 'semantic', 'histogram', 'database', 'region']
+Topic: 4 
+Words: ['camera', 'pixel', 'motion', 'event', 'surface', 'reconstruction', 'texture', 'frame', 'shape', 'depth', 'pattern', 'novel', 'calibration', 'geometry', 'resolution', 'moving', 'different', 'super', 'noise', 'new']
+Topic: 5 
+Words: ['label', 'matrix', 'document', 'retrieval', 'score', 'rank', 'similarity', 'different', 'relationship', 'strategy', 'confidence', 'convex', 'use', 'ip', 'norm', 'formulation', 'phase', 'new', 'list', 'selection']
+Topic: 6 
+Words: ['flow', 'motion', 'preference', 'optical', 'count', 'computational', 'blur', 'new', 'rule', 'field', 'use', 'complexity', 'voting', 'team', 'stereo', 'frame', 'candidate', 'filtering', 'derivative', 'dialogue']
+Topic: 7 
+Words: ['descriptor', 'matching', 'metric', 'ontology', 'social', 'vision', 'demographic', 'coalition', 'energy', 'topic', 'stability', 'semantics', 'higher', 'site', 'new', 'malicious', 'expert', 'novel', 'group', 'switching']
+Topic: 8 
+Words: ['kernel', 'sparse', 'regression', 'low', 'use', 'new', 'different', 'novel', 'efficiently', 'case', 'series', 'matrix', 'mean', 'operator', 'cluster', 'logic', 'coding', 'robust', 'clustering', 'risk']
+Topic: 9 
+Words: ['ranking', 'semantic', 'article', 'news', 'recommendation', 'group', 'social', 'matching', 'similarity', 'novel', 'service', 'pair', 'pattern', 'metric', 'market', 'different', 'expression', 'cost', 'topic', 'new']
+Topic: 10 
+Words: ['attack', 'temporal', 'tree', 'twitter', 'topic', 'privacy', 'hash', 'lda', 'efficiency', 'content', 'novel', 'adoption', 'background', 'pattern', 'random', 'sensitive', 'cost', 'kernel', 'syntactic', 'event']
+Topic: 11 
+Words: ['pattern', 'review', 'aspect', 'new', 'sentiment', 'word', 'different', 'source', 'machine', 'translation', 'use', 'retrieval', 'rule', 'mining', 'need', 'novel', 'age', 'tree', 'classifier', 'topic']
+Topic: 12 
+Words: ['tweet', 'community', 'clustering', 'segmentation', 'measure', 'entity', 'propagation', 'question', 'view', 'different', 'short', 'spectral', 'new', 'twitter', 'text', 'social', 'affinity', 'novel', 'link', 'pair']
+Topic: 13 
+Words: ['shape', 'manifold', 'low', 'distance', 'non', 'stereo', 'surface', 'rank', 'metric', 'topology', 'illumination', 'contour', 'cue', 'deformation', 'normal', 'dimensional', 'euclidean', 'lighting', 'temporal', 'vision']
+Topic: 14 
+Words: ['region', 'salient', 'spatial', 'energy', 'node', 'new', 'tag', 'saliency', 'pairwise', 'descriptor', 'optimal', 'segmentation', 'prior', 'scheme', 'cost', 'tagging', 'distribution', 'heuristic', 'strategy', 'decision']
+Topic: 15 
+Words: ['photo', 'region', 'context', 'dl', 'activity', 'landmark', 'aesthetic', 'decision', 'case', 'bank', 'different', 'horn', 'revision', 'formula', 'new', 'shadow', 'sparse', 'attribute', 'stage', 'second']
+Topic: 16 
+Words: ['attribute', 'target', 'language', 'segmentation', 'similarity', 'inference', 'source', 'distance', 'novel', 'norm', 'new', 'customer', 'procedure', 'series', 'rank', 'modal', 'property', 'atom', 'labeled', 'available']
+Topic: 17 
+Words: ['sample', 'source', 'hand', 'classifier', 'target', 'page', 'different', 'labeled', 'transfer', 'content', 'distribution', 'stream', 'active', 'pose', 'twitter', 'foreground', 'label', 'positive', 'example', 'novel']
+Topic: 18 
+Words: ['relation', 'activity', 'different', 'classifier', 'novel', 'prediction', 'action', 'role', 'opinion', 'example', 'social', 'line', 'new', 'event', 'measure', 'clustering', 'crowd', 'region', 'signal', 'text']
+Topic: 19 
+Words: ['pose', 'body', 'mechanism', 'dictionary', 'recommendation', 'dynamic', 'different', 'clothing', 'estimation', 'new', 'range', 'novel', 'social', 'refractive', 'context', 'fashion', 'prior', 'neuron', 'face', 'clause']
+Topic: 20 
+Words: ['agent', 'question', 'answer', 'program', 'trace', 'plan', 'environment', 'team', 'online', 'robot', 'concept', 'trail', 'argument', 'new', 'semantics', 'answering', 'contour', 'definition', 'thread', 'novel']
+Topic: 21 
+Words: ['segmentation', 'color', 'detector', 'segment', 'depth', 'registration', 'temporal', 'foreground', 'dynamic', 'motion', 'surface', 'sequence', 'spatio', 'novel', 'shape', 'marker', 'variation', 'background', 'prior', 'frame']
+Topic: 22 
+Words: ['matrix', 'policy', 'factorization', 'people', 'factor', 'target', 'vertical', 'repeated', 'complexity', 'interaction', 'repetitive', 'probability', 'novel', 'bound', 'optimal', 'lead', 'pixel', 'chain', 'use', 'classifier']
+Topic: 23 
+Words: ['location', 'session', 'localization', 'suggestion', 'node', 'different', 'latent', 'character', 'novel', 'detector', 'classifier', 'edge', 'svms', 'voc', 'localize', 'browser', 'use', 'need', 'end', 'action']
+Topic: 24 
+Words: ['path', 'denoising', 'regularization', 'planning', 'new', 'tensor', 'mining', 'metric', 'novel', 'curvature', 'patch', 'goal', 'non', 'icon', 'measure', 'given', 'use', 'natural', 'log', 'achieve']
+Topic: 25 
+Words: ['social', 'content', 'behavior', 'new', 'recommendation', 'medium', 'change', 'interaction', 'site', 'type', 'service', 'friend', 'community', 'tool', 'individual', 'different', 'facebook', 'people', 'ir', 'music']
+Topic: 26 
+Words: ['cloud', 'event', 'research', 'short', 'mobile', 'evolution', 'understanding', 'new', 'product', 'different', 'use', 'evidence', 'medium', 'challenge', 'malware', 'ranking', 'individual', 'viewpoint', 'service', 'need']
+Topic: 27 
+Words: ['label', 'random', 'field', 'instance', 'agent', 'category', 'annotation', 'bit', 'exemplar', 'metric', 'learn', 'novel', 'discriminative', 'different', 'dependency', 'segmentation', 'hypothesis', 'duplicate', 'dictionary', 'reduction']
+Topic: 28 
+Words: ['saliency', 'place', 'patient', 'app', 'apps', 'question', 'game', 'searcher', 'reconstruction', 'prediction', 'different', 'provider', 'topic', 'novel', 'external', 'useful', 'height', 'region', 'text', 'latent']
+Topic: 29 
+Words: ['topic', 'word', 'different', 'new', 'error', 'context', 'tree', 'corpus', 'modeling', 'parsing', 'use', 'text', 'language', 'dependency', 'face', 'lda', 'resource', 'translation', 'material', 'similarity']
+Topic: 30 
+Words: ['entity', 'base', 'comment', 'measure', 'new', 'wikipedia', 'link', 'utility', 'news', 'language', 'linking', 'list', 'concept', 'topic', 'document', 'different', 'content', 'logic', 'interval', 'fragment']
+Topic: 31 
+Words: ['action', 'pose', 'novel', 'grammar', 'new', 'item', 'cascade', 'rotation', 'reconstruction', 'articulated', 'field', 'error', 'sat', 'motion', 'bow', 'maximization', 'background', 'view', 'property', 'latent']
+Topic: 32 
+Words: ['translation', 'language', 'estimation', 'new', 'pose', 'use', 'machine', 'english', 'better', 'inference', 'test', 'semantic', 'statistical', 'global', 'sfm', 'predicate', 'phrase', 'direct', 'collection', 'message']
+Topic: 33 
+Words: ['document', 'relevance', 'engine', 'retrieval', 'semantic', 'collection', 'topic', 'text', 'language', 'click', 'word', 'given', 'relation', 'different', 'online', 'ranking', 'bias', 'group', 'category', 'log']
+Topic: 34 
+Words: ['location', 'kernel', 'classifier', 'traffic', 'prediction', 'cluster', 'poi', 'sr', 'gaze', 'environment', 'sequence', 'use', 'symbol', 'measurement', 'audio', 'disease', 'case', 'different', 'symptom', 'better']
