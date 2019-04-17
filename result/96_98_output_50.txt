@@ -1,0 +1,70 @@
+Topic: 0 
+Words: ['training', 'new', 'shape', 'machine', 'curve', 'user', 'solution', 'high', 'single', 'use', 'optimization', 'tree', 'test', 'translation', 'local', 'state', 'neural', 'vision', 'benchmark', 'adapt']
+Topic: 1 
+Words: ['shape', 'new', 'expression', 'novel', 'local', 'class', 'different', 'control', 'global', 'state', 'word', 'measure', 'surface', 'compare', 'matching', 'continuous', 'facial', 'computational', 'sensor', 'line']
+Topic: 2 
+Words: ['target', 'word', 'correspondence', 'new', 'camera', 'velocity', 'clutter', 'curve', 'contour', 'use', 'context', 'detection', 'term', 'position', 'field', 'feedback', 'sense', 'novel', 'eye', 'given']
+Topic: 3 
+Words: ['text', 'rule', 'pattern', 'novel', 'discovery', 'segmentation', 'surface', 'global', 'nonrigid', 'quot', 'knowledge', 'vision', 'solve', 'transformation', 'evaluation', 'face', 'world', 'dynamic', 'new', 'need']
+Topic: 4 
+Words: ['new', 'classification', 'camera', 'tracking', 'region', 'state', 'clustering', 'position', 'attribute', 'color', 'matrix', 'step', 'use', 'illumination', 'landmark', 'provide', 'class', 'local', 'estimation', 'given']
+Topic: 5 
+Words: ['user', 'metric', 'new', 'machine', 'modeling', 'specific', 'general', 'conic', 'rig', 'segment', 'estimation', 'provide', 'shape', 'semantics', 'matrix', 'tag', 'selection', 'line', 'text', 'concept']
+Topic: 6 
+Words: ['texture', 'face', 'knowledge', 'class', 'mixture', 'camera', 'given', 'theory', 'video', 'retina', 'vision', 'euclidean', 'frame', 'background', 'target', 'distance', 'matching', 'detection', 'pixel', 'phasic']
+Topic: 7 
+Words: ['rule', 'level', 'texture', 'estimation', 'knowledge', 'shape', 'new', 'example', 'pose', 'user', 'camera', 'small', 'high', 'theory', 'quot', 'curve', 'database', 'temporal', 'robust', 'frame']
+Topic: 8 
+Words: ['user', 'camera', 'different', 'shape', 'database', 'error', 'use', 'knowledge', 'page', 'tool', 'retrieval', 'change', 'document', 'distribution', 'distortion', 'view', 'property', 'line', 'selection', 'depth']
+Topic: 9 
+Words: ['database', 'knowledge', 'spatial', 'noise', 'source', 'new', 'shape', 'use', 'different', 'attribute', 'estimation', 'example', 'local', 'plane', 'signal', 'range', 'mining', 'measure', 'complex', 'accuracy']
+Topic: 10 
+Words: ['surface', 'distribution', 'new', 'class', 'different', 'invariant', 'database', 'classification', 'use', 'classifier', 'face', 'field', 'mean', 'linear', 'pattern', 'value', 'neural', 'general', 'single', 'level']
+Topic: 11 
+Words: ['different', 'use', 'class', 'surface', 'type', 'quot', 'line', 'measure', 'pattern', 'value', 'view', 'classification', 'hypothesis', 'source', 'moment', 'given', 'contour', 'matching', 'reference', 'language']
+Topic: 12 
+Words: ['camera', 'calibration', 'scale', 'vector', 'segmentation', 'edge', 'region', 'use', 'view', 'occlusion', 'flow', 'detection', 'constraint', 'field', 'texture', 'plane', 'estimate', 'level', 'optical', 'input']
+Topic: 13 
+Words: ['surface', 'use', 'new', 'contour', 'measure', 'video', 'knowledge', 'given', 'case', 'class', 'face', 'shape', 'corpus', 'matching', 'word', 'language', 'accuracy', 'similarity', 'statistical', 'instance']
+Topic: 14 
+Words: ['surface', 'new', 'linear', 'shape', 'level', 'criterion', 'value', 'local', 'field', 'texture', 'error', 'invariant', 'robust', 'rule', 'region', 'segmentation', 'classifier', 'filter', 'derived', 'scale']
+Topic: 15 
+Words: ['view', 'new', 'camera', 'error', 'surface', 'field', 'visual', 'given', 'example', 'use', 'projection', 'mosaic', 'action', 'database', 'quality', 'flow', 'efficient', 'dimensional', 'dynamic', 'common']
+Topic: 16 
+Words: ['mining', 'rule', 'surface', 'word', 'database', 'texture', 'use', 'term', 'pattern', 'human', 'document', 'local', 'demonstrate', 'association', 'case', 'user', 'weight', 'camera', 'probability', 'knowledge']
+Topic: 17 
+Words: ['attribute', 'use', 'new', 'rule', 'knowledge', 'expression', 'intensity', 'interaction', 'dialogue', 'party', 'database', 'change', 'view', 'value', 'boundary', 'camera', 'class', 'different', 'human', 'target']
+Topic: 18 
+Words: ['new', 'face', 'camera', 'search', 'flow', 'constraint', 'view', 'use', 'solution', 'shock', 'shape', 'edge', 'robot', 'different', 'probability', 'robust', 'rule', 'accuracy', 'vector', 'optical']
+Topic: 19 
+Words: ['new', 'camera', 'property', 'filter', 'stereo', 'high', 'vision', 'segmentation', 'low', 'vector', 'document', 'local', 'retrieval', 'database', 'color', 'scheme', 'invariant', 'estimate', 'projective', 'tracking']
+Topic: 20 
+Words: ['surface', 'word', 'use', 'new', 'field', 'rule', 'user', 'neural', 'view', 'behavior', 'input', 'geometric', 'potential', 'term', 'knowledge', 'area', 'resulting', 'way', 'range', 'control']
+Topic: 21 
+Words: ['new', 'affine', 'curve', 'tracking', 'basis', 'use', 'group', 'scheme', 'distribution', 'database', 'rule', 'distance', 'matching', 'different', 'simple', 'frame', 'map', 'invariant', 'similarity', 'transformation']
+Topic: 22 
+Words: ['rule', 'mining', 'camera', 'different', 'line', 'video', 'statistical', 'agent', 'new', 'clustering', 'tree', 'attribute', 'mosaicing', 'general', 'ambiguity', 'support', 'projection', 'vision', 'value', 'parallel']
+Topic: 23 
+Words: ['mining', 'database', 'new', 'use', 'normalization', 'vision', 'tracking', 'selection', 'human', 'way', 'flow', 'pattern', 'theory', 'class', 'graph', 'support', 'solution', 'knowledge', 'known', 'retrieval']
+Topic: 24 
+Words: ['calibration', 'decision', 'use', 'example', 'camera', 'case', 'transformation', 'colour', 'occlusion', 'value', 'surface', 'region', 'attribute', 'test', 'tree', 'ball', 'given', 'accuracy', 'novel', 'input']
+Topic: 25 
+Words: ['scale', 'class', 'edge', 'affine', 'matching', 'view', 'segmentation', 'reconstruction', 'shape', 'use', 'novel', 'different', 'linear', 'new', 'local', 'invariant', 'estimation', 'distance', 'spatial', 'face']
+Topic: 26 
+Words: ['shape', 'search', 'value', 'new', 'color', 'region', 'surface', 'solution', 'database', 'tree', 'constraint', 'query', 'local', 'use', 'different', 'range', 'matching', 'error', 'segmentation', 'depth']
+Topic: 27 
+Words: ['different', 'instance', 'local', 'database', 'criterion', 'multiple', 'moving', 'tracking', 'causal', 'vision', 'search', 'concept', 'bag', 'matching', 'mining', 'detector', 'evaluation', 'class', 'non', 'word']
+Topic: 28 
+Words: ['shape', 'surface', 'local', 'new', 'distribution', 'tree', 'face', 'study', 'estimate', 'solution', 'video', 'texture', 'camera', 'given', 'facial', 'dimensional', 'use', 'correspondence', 'gradient', 'error']
+Topic: 29 
+Words: ['face', 'surface', 'constraint', 'pattern', 'tracking', 'class', 'estimation', 'mining', 'search', 'use', 'classification', 'rule', 'combining', 'knowledge', 'pose', 'machine', 'condition', 'illumination', 'source', 'classifier']
+Topic: 30 
+Words: ['state', 'variable', 'different', 'constraint', 'camera', 'action', 'category', 'use', 'segmentation', 'level', 'component', 'form', 'curve', 'new', 'filter', 'value', 'tracking', 'distribution', 'input', 'deformation']
+Topic: 31 
+Words: ['new', 'use', 'neural', 'visual', 'tree', 'pixel', 'bayesian', 'edge', 'region', 'contour', 'estimate', 'flow', 'decision', 'initial', 'component', 'constraint', 'general', 'linear', 'probability', 'field']
+Topic: 32 
+Words: ['camera', 'constraint', 'corner', 'tracking', 'use', 'classification', 'correspondence', 'region', 'test', 'given', 'map', 'detection', 'tensor', 'different', 'line', 'allows', 'example', 'value', 'small', 'stage']
+Topic: 33 
+Words: ['scale', 'new', 'attribute', 'phase', 'line', 'level', 'applied', 'similarity', 'decision', 'factor', 'definition', 'important', 'tree', 'example', 'training', 'simple', 'general', 'given', 'use', 'machine']
+Topic: 34 
+Words: ['view', 'local', 'human', 'multiple', 'given', 'rule', 'camera', 'level', 'example', 'action', 'state', 'body', 'initial', 'error', 'tensor', 'measure', 'scale', 'new', 'color', 'plan']
