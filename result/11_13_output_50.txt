@@ -1,70 +1,60 @@
 Topic: 0 
-Words: ['label', 'multi', 'saliency', 'level', 'class', 'graph', 'segmentation', 'classification', 'active', 'map', 'measure', 'different', 'attribute', 'region', 'video', 'space', 'new', 'pixel', 'novel', 'formulation']
+Words: ['dictionary', 'sparse', 'kernel', 'classification', 'region', 'space', 'representation', 'similarity', 'class', 'point', 'sentiment', 'matching', 'visual', 'target', 'graph', 'local', 'function', 'non', 'machine', 'tracking']
 Topic: 1 
-Words: ['service', 'query', 'different', 'reasoning', 'logic', 'answer', 'topic', 'web', 'advertising', 'level', 'temporal', 'decision', 'belief', 'need', 'ad', 'clinical', 'knowledge', 'customer', 'risk', 'document']
+Words: ['domain', 'source', 'entity', 'word', 'knowledge', 'target', 'different', 'label', 'novel', 'new', 'transfer', 'use', 'web', 'multi', 'code', 'detection', 'visual', 'training', 'labeled', 'classification']
 Topic: 2 
-Words: ['low', 'motion', 'sparse', 'local', 'video', 'dimensional', 'facade', 'subspace', 'reduction', 'non', 'constraint', 'face', 'rank', 'sign', 'descriptor', 'scene', 'novel', 'sequence', 'rigid', 'new']
+Words: ['service', 'social', 'text', 'session', 'market', 'content', 'interaction', 'twitter', 'trace', 'agent', 'pattern', 'network', 'online', 'platform', 'new', 'plan', 'player', 'important', 'game', 'knowledge']
 Topic: 3 
-Words: ['tree', 'kernel', 'training', 'translation', 'classification', 'machine', 'class', 'label', 'plan', 'language', 'classifier', 'function', 'forest', 'sequence', 'dependency', 'use', 'instance', 'metric', 'video', 'non']
+Words: ['measure', 'scene', 'similarity', 'color', 'marker', 'new', 'surface', 'visual', 'relation', 'music', 'retrieval', 'shadow', 'photometric', 'detection', 'edge', 'modal', 'invariant', 'diffusion', 'novel', 'clothing']
 Topic: 4 
-Words: ['graph', 'node', 'different', 'metric', 'parameter', 'scene', 'mining', 'attribute', 'pattern', 'relation', 'ranking', 'edge', 'reflection', 'function', 'type', 'supervised', 'item', 'new', 'use', 'cluster']
+Words: ['motion', 'video', 'human', 'trajectory', 'action', 'low', 'estimation', 'level', 'local', 'sparse', 'scene', 'rank', 'recognition', 'background', 'function', 'scheme', 'temporal', 'representation', 'foreground', 'matching']
 Topic: 5 
-Words: ['face', 'camera', 'layer', 'scene', 'pose', 'illumination', 'material', 'noise', 'multi', 'estimation', 'recognition', 'estimate', 'environment', 'level', 'depth', 'single', 'different', 'agent', 'target', 'low']
+Words: ['query', 'document', 'behavior', 'relevance', 'click', 'location', 'term', 'word', 'engine', 'ranking', 'matrix', 'retrieval', 'web', 'vertical', 'prediction', 'semantic', 'suggestion', 'similarity', 'modeling', 'effective']
 Topic: 6 
-Words: ['rank', 'sparse', 'relevance', 'signal', 'rule', 'matrix', 'preference', 'low', 'judgment', 'document', 'coding', 'role', 'use', 'new', 'class', 'list', 'sr', 'distance', 'language', 'detection']
+Words: ['graph', 'local', 'cost', 'label', 'classifier', 'classification', 'complexity', 'new', 'class', 'strategy', 'series', 'space', 'energy', 'solve', 'selection', 'negative', 'solution', 'active', 'neighborhood', 'bit']
 Topic: 7 
-Words: ['social', 'recommendation', 'influence', 'network', 'matrix', 'group', 'recommender', 'item', 'ip', 'rating', 'node', 'factorization', 'individual', 'new', 'factor', 'activity', 'ordinal', 'campaign', 'prediction', 'collaborative']
+Words: ['attribute', 'class', 'local', 'label', 'pixel', 'texture', 'spatial', 'constraint', 'classifier', 'visual', 'level', 'use', 'property', 'pattern', 'pairwise', 'training', 'variable', 'field', 'random', 'classification']
 Topic: 8 
-Words: ['field', 'stereo', 'blur', 'event', 'single', 'use', 'camera', 'matching', 'motion', 'pixel', 'height', 'different', 'graph', 'region', 'previous', 'marginal', 'new', 'topic', 'code', 'language']
+Words: ['ranking', 'recommendation', 'item', 'new', 'topic', 'low', 'list', 'level', 'rank', 'space', 'different', 'measure', 'tag', 'effectiveness', 'quality', 'domain', 'resolution', 'sparse', 'use', 'argument']
 Topic: 9 
-Words: ['event', 'video', 'social', 'news', 'document', 'entity', 'line', 'tweet', 'content', 'constraint', 'motion', 'twitter', 'scene', 'camera', 'web', 'segment', 'novel', 'flow', 'temporal', 'behavior']
+Words: ['game', 'function', 'value', 'case', 'use', 'linear', 'knowledge', 'variable', 'mechanism', 'new', 'strategy', 'online', 'advertising', 'mining', 'optimization', 'loss', 'optimal', 'revenue', 'utility', 'equilibrium']
 Topic: 10 
-Words: ['classifier', 'training', 'light', 'class', 'visual', 'use', 'example', 'level', 'classification', 'boosting', 'dataset', 'prediction', 'category', 'occlusion', 'novel', 'new', 'detection', 'direct', 'hierarchy', 'annotated']
+Words: ['color', 'parser', 'question', 'mapping', 'rl', 'background', 'language', 'pair', 'syntactic', 'saliency', 'query', 'map', 'semantic', 'spd', 'semantically', 'shallow', 'function', 'surface', 'ontology', 'interpreted']
 Topic: 11 
-Words: ['clustering', 'domain', 'optimization', 'complexity', 'case', 'game', 'solution', 'function', 'class', 'property', 'linear', 'different', 'norm', 'new', 'convex', 'non', 'computational', 'use', 'constraint', 'solve']
+Words: ['video', 'query', 'shape', 'segmentation', 'event', 'novel', 'engine', 'new', 'region', 'term', 'log', 'detection', 'frame', 'solution', 'exemplar', 'web', 'constraint', 'previous', 'context', 'given']
 Topic: 12 
-Words: ['video', 'action', 'human', 'motion', 'recognition', 'scene', 'activity', 'temporal', 'visual', 'level', 'representation', 'view', 'novel', 'frame', 'spatial', 'segmentation', 'trajectory', 'detection', 'use', 'appearance']
+Words: ['group', 'non', 'class', 'noise', 'convex', 'dependency', 'sparsity', 'training', 'source', 'linear', 'filter', 'classification', 'sample', 'new', 'component', 'blind', 'formulation', 'compound', 'different', 'item']
 Topic: 13 
-Words: ['photo', 'sketch', 'music', 'face', 'field', 'event', 'aesthetic', 'horn', 'modal', 'lighting', 'quality', 'modality', 'audio', 'reranking', 'level', 'new', 'space', 'different', 'collection', 'breaking']
+Words: ['camera', 'pose', 'shape', 'video', 'graph', 'depth', 'motion', 'temporal', 'scene', 'activity', 'novel', 'sequence', 'representation', 'frame', 'recognition', 'point', 'human', 'non', 'manifold', 'pattern']
 Topic: 14 
-Words: ['manifold', 'query', 'space', 'hashing', 'topic', 'new', 'local', 'domain', 'graph', 'distribution', 'hash', 'code', 'previous', 'distance', 'worker', 'crowdsourcing', 'evaluation', 'human', 'neighbor', 'computation']
+Words: ['matrix', 'subspace', 'point', 'segmentation', 'network', 'function', 'new', 'view', 'solution', 'face', 'different', 'constraint', 'space', 'optimization', 'low', 'non', 'regression', 'clustering', 'rank', 'linear']
 Topic: 15 
-Words: ['trust', 'hashtags', 'aggregation', 'local', 'process', 'thread', 'location', 'social', 'class', 'power', 'visual', 'new', 'classification', 'geographical', 'gaussian', 'provide', 'term', 'descriptor', 'proximity', 'spatial']
+Words: ['document', 'page', 'web', 'retrieval', 'query', 'ranking', 'measure', 'engine', 'relevant', 'evaluation', 'diversification', 'segmentation', 'topic', 'metric', 'diversity', 'list', 'action', 'trec', 'score', 'ir']
 Topic: 16 
-Words: ['color', 'dictionary', 'descriptor', 'classification', 'sparse', 'coding', 'visual', 'robust', 'sift', 'sample', 'pattern', 'policy', 'error', 'binary', 'domain', 'phase', 'code', 'reconstruction', 'depth', 'cascade']
+Words: ['question', 'medium', 'answer', 'social', 'language', 'article', 'agent', 'new', 'behavior', 'semantic', 'team', 'knowledge', 'expert', 'pattern', 'need', 'different', 'aspect', 'web', 'important', 'novel']
 Topic: 17 
-Words: ['network', 'query', 'sampling', 'descriptor', 'preference', 'hand', 'range', 'sensor', 'complexity', 'size', 'ontology', 'dynamic', 'rewriting', 'novel', 'clique', 'index', 'graph', 'column', 'scheme', 'local']
+Words: ['scene', 'surface', 'shape', 'geometry', 'entity', 'detection', 'action', 'different', 'view', 'estimate', 'world', 'appearance', 'geometric', 'representation', 'challenging', 'camera', 'pattern', 'reconstruction', 'dataset', 'parameter']
 Topic: 18 
-Words: ['query', 'pattern', 'web', 'engine', 'behavior', 'session', 'term', 'page', 'mining', 'click', 'database', 'interval', 'dl', 'provide', 'log', 'concept', 'knowledge', 'different', 'level', 'recommendation']
+Words: ['activity', 'fragment', 'interaction', 'belief', 'thread', 'book', 'domain', 'online', 'reflectance', 'agent', 'cf', 'protein', 'video', 'knowledge', 'new', 'mr', 'filtering', 'estimation', 'complete', 'social']
 Topic: 19 
-Words: ['pose', 'estimation', 'tracking', 'scene', 'single', 'human', 'eye', 'texture', 'joint', 'detection', 'resolution', 'text', 'gaze', 'new', 'super', 'camera', 'potential', 'interaction', 'field', 'calibration']
+Words: ['face', 'word', 'recognition', 'error', 'role', 'event', 'visual', 'place', 'age', 'scene', 'tagging', 'novel', 'level', 'language', 'count', 'different', 'use', 'local', 'metric', 'variation']
 Topic: 20 
-Words: ['shape', 'point', 'surface', 'pose', 'matching', 'non', 'detection', 'linear', 'face', 'new', 'manifold', 'space', 'correspondence', 'single', 'challenging', 'estimation', 'local', 'rigid', 'solution', 'variation']
+Words: ['web', 'content', 'document', 'topic', 'site', 'online', 'collection', 'relation', 'research', 'recommendation', 'new', 'rating', 'corpus', 'different', 'network', 'page', 'generation', 'security', 'trust', 'news']
 Topic: 21 
-Words: ['function', 'team', 'curvature', 'new', 'question', 'energy', 'linear', 'sample', 'stage', 'random', 'answer', 'adoption', 'boundary', 'representation', 'space', 'use', 'grouping', 'distribution', 'internal', 'novel']
+Words: ['segmentation', 'detection', 'tracking', 'region', 'photo', 'occlusion', 'registration', 'appearance', 'depth', 'scene', 'metric', 'new', 'boundary', 'dataset', 'different', 'rigid', 'visual', 'cascade', 'person', 'pixel']
 Topic: 22 
-Words: ['attribute', 'face', 'classifier', 'word', 'novel', 'representation', 'recognition', 'video', 'visual', 'geometric', 'prediction', 'metric', 'scene', 'different', 'cue', 'training', 'human', 'relative', 'learn', 'supervised']
+Words: ['network', 'social', 'graph', 'point', 'preference', 'link', 'recommendation', 'node', 'single', 'edge', 'pose', 'new', 'community', 'prediction', 'multi', 'novel', 'kernel', 'given', 'agent', 'label']
 Topic: 23 
-Words: ['segmentation', 'transfer', 'semantics', 'contour', 'class', 'detector', 'exemplar', 'energy', 'new', 'center', 'runtime', 'progression', 'detection', 'edge', 'skill', 'different', 'knowledge', 'theory', 'rule', 'definition']
+Words: ['social', 'translation', 'opinion', 'new', 'network', 'forest', 'machine', 'space', 'poi', 'heuristic', 'scene', 'training', 'decision', 'context', 'tree', 'dynamic', 'planning', 'detection', 'ip', 'landmark']
 Topic: 24 
-Words: ['context', 'component', 'outlier', 'privacy', 'trail', 'tensor', 'flow', 'online', 'sensitive', 'strategy', 'frame', 'key', 'query', 'clean', 'table', 'offline', 'al', 'photo', 'language', 'different']
+Words: ['recognition', 'shape', 'class', 'different', 'detector', 'category', 'detection', 'classification', 'domain', 'training', 'dataset', 'field', 'classifier', 'level', 'supervised', 'discriminative', 'novel', 'segmentation', 'view', 'rule']
 Topic: 25 
-Words: ['tracker', 'class', 'tag', 'local', 'score', 'region', 'error', 'pooling', 'scheme', 'tagging', 'best', 'novel', 'classifier', 'tracking', 'norm', 'target', 'forest', 'word', 'dependency', 'new']
+Words: ['human', 'visual', 'different', 'level', 'news', 'quality', 'new', 'sample', 'retrieval', 'content', 'category', 'people', 'eye', 'online', 'evaluation', 'training', 'personal', 'example', 'subject', 'novel']
 Topic: 26 
-Words: ['web', 'document', 'query', 'measure', 'retrieval', 'human', 'entity', 'use', 'feedback', 'knowledge', 'relevance', 'index', 'new', 'positive', 'different', 'heuristic', 'evaluation', 'engine', 'improve', 'page']
+Words: ['patch', 'local', 'document', 'web', 'matching', 'product', 'semantic', 'matrix', 'process', 'novel', 'query', 'temporal', 'relation', 'non', 'descriptor', 'factorization', 'representation', 'keywords', 'new', 'online']
 Topic: 27 
-Words: ['source', 'domain', 'target', 'detection', 'different', 'cluster', 'sentiment', 'detector', 'new', 'association', 'query', 'effectiveness', 'web', 'distribution', 'quality', 'tracking', 'sample', 'entity', 'game', 'adaptation']
+Words: ['saliency', 'classification', 'distance', 'term', 'classifier', 'expression', 'light', 'metric', 'color', 'new', 'training', 'distribution', 'linear', 'different', 'function', 'collection', 'novel', 'field', 'visual', 'kernel']
 Topic: 28 
-Words: ['subspace', 'knowledge', 'classification', 'domain', 'representation', 'different', 'use', 'category', 'bias', 'training', 'planning', 'source', 'error', 'cost', 'corpus', 'grammar', 'cold', 'extraction', 'market', 'language']
+Words: ['query', 'logic', 'event', 'program', 'annotation', 'dl', 'agent', 'index', 'answer', 'clinical', 'reasoning', 'patient', 'medical', 'rule', 'semantics', 'action', 'video', 'malware', 'new', 'health']
 Topic: 29 
-Words: ['topic', 'matrix', 'review', 'term', 'product', 'text', 'aspect', 'factorization', 'lda', 'sat', 'novel', 'domain', 'comment', 'decision', 'different', 'cross', 'effectiveness', 'graph', 'job', 'corpus']
-Topic: 30 
-Words: ['network', 'social', 'online', 'detection', 'link', 'community', 'people', 'content', 'world', 'medium', 'different', 'new', 'web', 'behavior', 'traffic', 'graph', 'prediction', 'location', 'detector', 'heterogeneous']
-Topic: 31 
-Words: ['query', 'word', 'document', 'retrieval', 'semantic', 'similarity', 'language', 'text', 'different', 'ranking', 'relation', 'measure', 'term', 'context', 'novel', 'new', 'question', 'relevance', 'web', 'knowledge']
-Topic: 32 
-Words: ['segmentation', 'inference', 'tracking', 'constraint', 'prior', 'region', 'new', 'pixel', 'space', 'novel', 'distribution', 'detection', 'camera', 'scene', 'variable', 'non', 'global', 'bayesian', 'error', 'function']
-Topic: 33 
-Words: ['agent', 'random', 'change', 'patch', 'field', 'new', 'depth', 'energy', 'pixel', 'friendship', 'mrf', 'game', 'expression', 'opinion', 'local', 'markov', 'strategy', 'forest', 'process', 'non']
-Topic: 34 
-Words: ['registration', 'scene', 'color', 'camera', 'detection', 'count', 'alignment', 'age', 'symbol', 'recognition', 'tracking', 'crowd', 'novel', 'new', 'annotation', 'person', 'range', 'web', 'pedestrian', 'video']
+Words: ['topic', 'clustering', 'face', 'query', 'document', 'different', 'inference', 'cluster', 'class', 'lda', 'graph', 'word', 'context', 'classification', 'latent', 'facial', 'novel', 'multi', 'group', 'pair']
