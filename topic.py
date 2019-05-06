@@ -110,7 +110,7 @@ def topic_classification_gensim(filename_1, filename_2, topic_number, top_idf_nu
     print(filename_2 + " word distribution:")
     print(topic_1)
     ax = plt.subplot()
-    ax.scatter(range(0, topic_number), topic_1, alpha=0.6)
+    ax.scatter(range(0, topic_number), topic_1, c='red', alpha=0.6)
     ax.scatter(range(0, topic_number), topic_2, c='green', alpha=0.6)
     plt.show()
 
@@ -134,8 +134,8 @@ def topic_classification(filename):
 
 def main():
     # topic_classification('word90-92.txt')
-    # optimal_topic_number('93-95.txt', '14-16.txt', 50)
-    topic_classification_gensim('93-95.txt', '14-16.txt', 35, 50)
+    # optimal_topic_number('11-13.txt', '14-16.txt', 50)
+    topic_classification_gensim('11-13.txt', '14-16.txt', 35, 50)
     '''
     topic_classification('word90-92.txt')
     topic_classification('word93-95.txt')
