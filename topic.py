@@ -32,14 +32,16 @@ def list_inter(list_1, list_2):
     return [a for a in list_1 if a not in list_2 and len(a) > 1]
 
 
-def process_doc(filename_1, filename_2, top_idf_number):
+def process_doc(filename_1, top_idf_number):
     """preprocess document"""
-    idf_file_1 = "idf/idf"+filename_1
-    idf_file_2 = "idf/idf"+filename_2
-    filename_1 = "word/word"+filename_1
-    filename_2 = "word/word"+filename_2
+    file_1 = filename_1.split("/")
+    if len(file_1) == 1:
+        idf_file_1 = "idf/idf"+file_1[0]
+        filename_1 = "word/word" + file_1[0]
+    else:
+        idf_file_1 = "idf/" + file_1[0]+"/idf" + file_1[1]
+        filename_1 = "word/" + file_1[0]+"/word" + file_1[1]
     idf_1 = idf_list(idf_file_1, top_idf_number)
-    idf_2 = idf_list(idf_file_2, top_idf_number)
     common_texts = []
     with open(filename_1, 'r') as file:
         for line in file:
@@ -49,24 +51,14 @@ def process_doc(filename_1, filename_2, top_idf_number):
                 common_texts.append(list_inter(line_1.split(' ')[:-1], idf_1))
             else:
                 common_texts.append(list_inter(line_1.split(' '), idf_1))
+    return common_texts
+
+
+def optimal_topic_number(filename_1, top_idf_number):
+    """how to find the optimal number of topics using coherence score."""
+    common_texts = process_doc(filename_1, top_idf_number)
     common_dictionary = Dictionary(common_texts)
     common_corpus = [common_dictionary.doc2bow(text) for text in common_texts]
-    other_texts = []
-    with open(filename_2, 'r') as file:
-        for line in file:
-            line_1 = line.strip('\n')
-            line_1 = remove_stopwords(line_1)
-            if line_1.split(' ')[-1] == "":
-                other_texts.append(list_inter(line_1.split(' ')[:-1], idf_2))
-            else:
-                other_texts.append(list_inter(line_1.split(' '), idf_2))
-    other_corpus = [common_dictionary.doc2bow(text) for text in other_texts]
-    return common_texts, common_dictionary, common_corpus, other_corpus
-
-
-def optimal_topic_number(filename_1, filename_2, top_idf_number):
-    """how to find the optimal number of topics using coherence score."""
-    common_texts, common_dictionary, common_corpus, other_corpus = process_doc(filename_1, filename_2, top_idf_number)
     coherence_score = []
     for i in range(20, 40):
         lda = LdaModel(common_corpus, id2word=common_dictionary, iterations=50, num_topics=i)
@@ -82,16 +74,15 @@ def optimal_topic_number(filename_1, filename_2, top_idf_number):
     plt.show()
 
 
-def topic_classification_gensim(filename_1, filename_2, topic_number, top_idf_number):
+def topic_classification_gensim_train(filename_1, topic_number, top_idf_number):
     """use gensim to perform lda algorithm"""
-    common_texts, common_dictionary, common_corpus, other_corpus = process_doc(filename_1, filename_2, top_idf_number)
+    common_texts = process_doc(filename_1, top_idf_number)
+    common_dictionary = Dictionary(common_texts)
+    common_corpus = [common_dictionary.doc2bow(text) for text in common_texts]
     lda = LdaModel(common_corpus, id2word=common_dictionary, iterations=50, num_topics=topic_number)
-    '''
     for index, topic in lda.show_topics(formatted=False, num_words=20, num_topics=topic_number):
         print('Topic: {} \nWords: {}'.format(index, [w[0] for w in topic]))
     # print the topic and words
-    '''
-    topic_1 = [0.00 for n in range(topic_number)]
     topic_2 = [0.00 for n in range(topic_number)]
     for seen_doc in common_corpus:
         vector_1 = lda[seen_doc]
@@ -101,18 +92,21 @@ def topic_classification_gensim(filename_1, filename_2, topic_number, top_idf_nu
     topic_2 = np.array(topic_2) / np.linalg.norm(topic_2)
     print(filename_1+" word distribution:")
     print(topic_2)
+    return topic_2, lda, common_dictionary
 
-    for unseen_doc in other_corpus:
-        vector = lda[unseen_doc]
+
+def topic_classification_gensim_fit(filename_2, topic_number, top_idf_number, lda_model, common_dictionary):
+    topic_1 = [0.00 for n in range(topic_number)]
+    common_texts = process_doc(filename_2, top_idf_number)
+    common_corpus = [common_dictionary.doc2bow(text) for text in common_texts]
+    for unseen_doc in common_corpus:
+        vector = lda_model[unseen_doc]
         for vec in vector:
             topic_1[vec[0]] = topic_1[vec[0]]+vec[1]
     topic_1 = np.array(topic_1)/np.linalg.norm(topic_1)
     print(filename_2 + " word distribution:")
     print(topic_1)
-    ax = plt.subplot()
-    ax.scatter(range(0, topic_number), topic_1, c='red', alpha=0.6)
-    ax.scatter(range(0, topic_number), topic_2, c='green', alpha=0.6)
-    plt.show()
+    return topic_1
 
 
 def topic_classification(filename):
@@ -132,20 +126,20 @@ def topic_classification(filename):
     print_top_words(lda, tf_feature_names, 6)
 
 
+def plot_scatter(topic_1, topic_2, topic_number):
+    ax = plt.subplot()
+    ax.scatter(range(0, topic_number), topic_1, c='red', alpha=0.6)
+    ax.scatter(range(0, topic_number), topic_2, c='green', alpha=0.6)
+    plt.show()
+
+
 def main():
     # topic_classification('word90-92.txt')
-    # optimal_topic_number('11-13.txt', '14-16.txt', 50)
-    topic_classification_gensim('11-13.txt', '14-16.txt', 35, 50)
-    '''
-    topic_classification('word90-92.txt')
-    topic_classification('word93-95.txt')
-    topic_classification('word96-98.txt')
-    topic_classification('word99-01.txt')
-    topic_classification('word02-04.txt')
-    topic_classification('word05-07.txt')
-    topic_classification('word08-10.txt')
-    topic_classification('word11-13.txt')
-    '''
+    # optimal_topic_number('11-13.txt', 50)
+    topic_2, lda, dictionary = topic_classification_gensim_train('11-13.txt', 35, 30)
+    file = ['Information_retrieval/11-13.txt', 'Computer_vision/11-13.txt']
+    for i in file:
+        topic_classification_gensim_fit(i, 35, 30, lda, dictionary)
 
 
 if __name__ == '__main__':
