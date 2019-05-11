@@ -7,6 +7,9 @@ from gensim.models import CoherenceModel
 import matplotlib.pyplot as plt
 import numpy as np
 
+AREA = ["Artificial_intelligence", "Computer_vision", "Machine_learning",
+        "Natural_language_processing", "Information_retrieval"]
+
 
 def print_top_words(model, feature_names, n_top_words):
     """print top words for sk-learn methods"""
@@ -136,7 +139,7 @@ def plot_scatter(topic_1, topic_2, topic_number):
     plt.show()
 
 
-def plot_trend(matrix):
+def plot_trend(matrix, area, year):
     apparent_change = []
     var = []
     for i in range(len(matrix[0])):
@@ -147,7 +150,7 @@ def plot_trend(matrix):
         var.append(np.var(topic_dis))
     print(var)
     for index in range(len(var)):
-        if var[index] > 0.0002:
+        if var[index] > 0.0005:
             apparent_change.append(index)
     for index in apparent_change:
         topic_value = []
@@ -156,6 +159,7 @@ def plot_trend(matrix):
         plt.plot(topic_value, label="topic_"+str(index))
         plt.title("topic "+str(index))
         plt.ylabel('topic distribution')
+        plt.savefig("img/" + area + "/topic_" + str(index) + "_" + year + ".png")
         plt.show()
 
 
@@ -176,13 +180,13 @@ def main():
     topic_matrix = []
     topic_2, lda, dictionary = topic_classification_gensim_train('.txt', 35, 50)
     topic_matrix.append(topic_2)
-    file = ['Artificial_intelligence/02-04.txt', 'Artificial_intelligence/05-07.txt',
-            'Artificial_intelligence/08-10.txt',
-            'Artificial_intelligence/11-13.txt', 'Artificial_intelligence/14-16.txt']
+    file = [AREA[4]+'/02-04.txt', AREA[4]+'/05-07.txt',
+            AREA[4]+'/08-10.txt',
+            AREA[4]+'/11-13.txt', AREA[4]+'/14-16.txt']
     for i in file:
         topic_matrix.append(topic_classification_gensim_fit(i, 35, 50, lda, dictionary))
-    plot_trend(topic_matrix[1:-1])
-    plot_scatter(topic_matrix[1], topic_matrix[2], 35)
+    plot_trend(topic_matrix[1:-1], AREA[4], "02-13")
+    # plot_scatter(topic_matrix[1], topic_matrix[2], 35)
 
 
 if __name__ == '__main__':
