@@ -7,3 +7,6 @@ Code in `abstrct.py` splits the data in `conference_list_extract.txt` into five 
 The common words in the corpus may mislead the lda model to misclassify the document. In the training and classification process, words with top idf value are eliminated. Words with corresponding idf value are stored in `idf` directory.
 ### Result
 Images of the topics with dramatic fluctuation can be found in `img` directory. The x-label is the year, and the y-label is the component of this topic in topic distribution.
+<div align="center">
+<img src="img/Artificial_intelligence/topic_9_02-13.png" width="500" style="margin-left:auto;margin-right:auto">
+</div>
