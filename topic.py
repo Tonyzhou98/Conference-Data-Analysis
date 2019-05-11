@@ -61,7 +61,8 @@ def optimal_topic_number(filename_1, top_idf_number):
     common_corpus = [common_dictionary.doc2bow(text) for text in common_texts]
     coherence_score = []
     for i in range(20, 40):
-        lda = LdaModel(common_corpus, id2word=common_dictionary, iterations=50, num_topics=i)
+        lda = LdaModel(common_corpus, id2word=common_dictionary, iterations=50, num_topics=i,
+                       random_state=np.random.RandomState(23455))
         coherence_model_lda = CoherenceModel(model=lda, texts=common_texts, dictionary=common_dictionary,
                                              coherence='u_mass')
         coherence_lda = coherence_model_lda.get_coherence()
@@ -79,7 +80,8 @@ def topic_classification_gensim_train(filename_1, topic_number, top_idf_number):
     common_texts = process_doc(filename_1, top_idf_number)
     common_dictionary = Dictionary(common_texts)
     common_corpus = [common_dictionary.doc2bow(text) for text in common_texts]
-    lda = LdaModel(common_corpus, id2word=common_dictionary, iterations=50, num_topics=topic_number)
+    lda = LdaModel(common_corpus, id2word=common_dictionary, iterations=50, num_topics=topic_number,
+                   random_state=np.random.RandomState(23455))
     for index, topic in lda.show_topics(formatted=False, num_words=20, num_topics=topic_number):
         print('Topic: {} \nWords: {}'.format(index, [w[0] for w in topic]))
     # print the topic and words
@@ -127,19 +129,60 @@ def topic_classification(filename):
 
 
 def plot_scatter(topic_1, topic_2, topic_number):
+    """plot the two topic distributions in scatter"""
     ax = plt.subplot()
     ax.scatter(range(0, topic_number), topic_1, c='red', alpha=0.6)
     ax.scatter(range(0, topic_number), topic_2, c='green', alpha=0.6)
     plt.show()
 
 
+def plot_trend(matrix):
+    apparent_change = []
+    var = []
+    for i in range(len(matrix[0])):
+        topic_dis = []
+        for vector in matrix:
+            topic_dis.append(vector[i])
+        topic_dis = np.array(topic_dis)
+        var.append(np.var(topic_dis))
+    print(var)
+    for index in range(len(var)):
+        if var[index] > 0.0002:
+            apparent_change.append(index)
+    for index in apparent_change:
+        topic_value = []
+        for vector in matrix:
+            topic_value.append(vector[index])
+        plt.plot(topic_value, label="topic_"+str(index))
+        plt.title("topic "+str(index))
+        plt.ylabel('topic distribution')
+        plt.show()
+
+
+def similarity(matrix):
+    """calculate the cosine similarity of two vectors"""
+    sim = []
+    for index in range(len(matrix)-1):
+        vector1 = np.array(matrix[index])
+        vector2 = np.array(matrix[index+1])
+        dis = np.dot(vector1, vector2) / (np.linalg.norm(vector1) * (np.linalg.norm(vector2)))
+        sim.append(dis)
+    print(sim)
+
+
 def main():
     # topic_classification('word90-92.txt')
     # optimal_topic_number('11-13.txt', 50)
-    topic_2, lda, dictionary = topic_classification_gensim_train('11-13.txt', 35, 30)
-    file = ['Information_retrieval/11-13.txt', 'Computer_vision/11-13.txt']
+    topic_matrix = []
+    topic_2, lda, dictionary = topic_classification_gensim_train('.txt', 35, 50)
+    topic_matrix.append(topic_2)
+    file = ['Artificial_intelligence/02-04.txt', 'Artificial_intelligence/05-07.txt',
+            'Artificial_intelligence/08-10.txt',
+            'Artificial_intelligence/11-13.txt', 'Artificial_intelligence/14-16.txt']
     for i in file:
-        topic_classification_gensim_fit(i, 35, 30, lda, dictionary)
+        topic_matrix.append(topic_classification_gensim_fit(i, 35, 50, lda, dictionary))
+    plot_trend(topic_matrix[1:-1])
+    plot_scatter(topic_matrix[1], topic_matrix[2], 35)
 
 
 if __name__ == '__main__':
