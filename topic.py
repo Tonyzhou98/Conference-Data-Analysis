@@ -1,5 +1,6 @@
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
+from sklearn.manifold import TSNE
 from gensim.corpora.dictionary import Dictionary
 from gensim.models.ldamodel import LdaModel
 from gensim.parsing.preprocessing import remove_stopwords
@@ -104,10 +105,20 @@ def topic_classification_gensim_fit(filename_2, topic_number, top_idf_number, ld
     topic_1 = [0.00 for n in range(topic_number)]
     common_texts = process_doc(filename_2, top_idf_number)
     common_corpus = [common_dictionary.doc2bow(text) for text in common_texts]
+    Y = []
     for unseen_doc in common_corpus:
         vector = lda_model[unseen_doc]
+        y = np.zeros(35)
         for vec in vector:
             topic_1[vec[0]] = topic_1[vec[0]]+vec[1]
+            y[vec[0]] = vec[1]
+        Y.append(y)
+    Y = np.array(Y)
+    tsne = TSNE(n_components=2)
+    tsne.fit(Y)
+    #print(tsne.embedding_)
+    plt.plot(tsne.embedding_[:,0],tsne.embedding_[:,1])
+    plt.show()
     topic_1 = np.array(topic_1)/np.linalg.norm(topic_1)
     print(filename_2 + " word distribution:")
     print(topic_1)
