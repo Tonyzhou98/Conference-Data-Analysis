@@ -1,0 +1,422 @@
+,word,abs_freq,wtd_freq,rel_value,name,group,sub_group
+0,🐒,1,2896006.0,2896006.0,monkey,Animals & Nature,animal-mammal
+1,😂,535,762943.0,1426.0,face with tears of joy,Smileys & Emotion,face-smiling
+2,✔️,136,476351.0,3503.0,check mark,Symbols,other-symbol
+3,🤣,177,359634.0,2032.0,rolling on the floor laughing,Smileys & Emotion,face-smiling
+4,🇺🇸,48,322516.0,6719.0,flag: United States,Flags,country-flag
+5,🏈,80,288040.0,3600.0,american football,Activities,sport
+6,🔥,122,232236.0,1904.0,fire,Travel & Places,sky & weather
+7,😘,13,199547.0,15350.0,face blowing a kiss,Smileys & Emotion,face-affection
+8,👮‍♂️,2,189520.0,94760.0,man police officer,People & Body,person-role
+9,😃,13,173217.0,13324.0,grinning face with big eyes,Smileys & Emotion,face-smiling
+10,👮‍♀️,1,165309.0,165309.0,woman police officer,People & Body,person-role
+11,🤖,3,165183.0,55061.0,robot,Smileys & Emotion,face-costume
+12,👍,15,151181.0,10079.0,thumbs up,People & Body,hand-fingers-closed
+13,⭐,28,134714.0,4811.0,star,Travel & Places,sky & weather
+14,♥️,9,125892.0,13988.0,heart suit,Activities,game
+15,✊🏾,42,123119.0,2931.0,raised fist: medium-dark skin tone,People & Body,hand-fingers-closed
+16,🤪,5,120962.0,24192.0,zany face,Smileys & Emotion,face-tongue
+17,⛪,1,85177.0,85177.0,church,Travel & Places,place-religious
+18,🔹,7,79286.0,11327.0,small blue diamond,Symbols,geometric
+19,😭,46,70061.0,1523.0,loudly crying face,Smileys & Emotion,face-concerned
+20,😶,3,66782.0,22261.0,face without mouth,Smileys & Emotion,face-neutral-skeptical
+21,💯,50,62637.0,1253.0,hundred points,Smileys & Emotion,emotion
+22,😝,2,58941.0,29470.0,squinting face with tongue,Smileys & Emotion,face-tongue
+23,🚨,22,58750.0,2670.0,police car light,Travel & Places,transport-ground
+24,👏,29,55444.0,1912.0,clapping hands,People & Body,hands
+25,👟,39,53483.0,1371.0,running shoe,Objects,clothing
+26,👏🏻,21,48438.0,2307.0,clapping hands: light skin tone,People & Body,hands
+27,✅,26,47537.0,1828.0,check mark button,Symbols,other-symbol
+28,❤️,69,43847.0,635.0,red heart,Smileys & Emotion,emotion
+29,🤔,31,42819.0,1381.0,thinking face,Smileys & Emotion,face-hand
+30,🧐,4,38721.0,9680.0,face with monocle,Smileys & Emotion,face-glasses
+31,😎,28,38291.0,1368.0,smiling face with sunglasses,Smileys & Emotion,face-glasses
+32,👀,37,37159.0,1004.0,eyes,People & Body,body-parts
+33,😊,19,35882.0,1889.0,smiling face with smiling eyes,Smileys & Emotion,face-smiling
+34,💥,10,35720.0,3572.0,collision,Smileys & Emotion,emotion
+35,💙,49,35494.0,724.0,blue heart,Smileys & Emotion,emotion
+36,💕,8,34864.0,4358.0,two hearts,Smileys & Emotion,emotion
+37,🙏,13,34848.0,2681.0,folded hands,People & Body,hands
+38,🙌🏾,20,34376.0,1719.0,raising hands: medium-dark skin tone,People & Body,hands
+39,💪🏻,7,34162.0,4880.0,flexed biceps: light skin tone,People & Body,body-parts
+40,🌟,13,33414.0,2570.0,glowing star,Travel & Places,sky & weather
+41,✊🏿,21,31551.0,1502.0,raised fist: dark skin tone,People & Body,hand-fingers-closed
+42,✔,27,29980.0,1110.0,check mark,Symbols,other-symbol
+43,🙄,13,28768.0,2213.0,face with rolling eyes,Smileys & Emotion,face-neutral-skeptical
+44,👏🏽,26,27010.0,1039.0,clapping hands: medium skin tone,People & Body,hands
+45,👨‍🚒,2,26482.0,13241.0,man firefighter,People & Body,person-role
+46,😑,3,26226.0,8742.0,expressionless face,Smileys & Emotion,face-neutral-skeptical
+47,✊🏽,37,26174.0,707.0,raised fist: medium skin tone,People & Body,hand-fingers-closed
+48,👇,13,25956.0,1997.0,backhand index pointing down,People & Body,hand-single-finger
+49,🙌,25,25252.0,1010.0,raising hands,People & Body,hands
+50,✌🏿,2,24147.0,12074.0,victory hand: dark skin tone,People & Body,hand-fingers-partial
+51,🙏🏿,2,24147.0,12074.0,folded hands: dark skin tone,People & Body,hands
+52,🎙,16,23998.0,1500.0,studio microphone,Objects,music
+53,😩,19,23422.0,1233.0,weary face,Smileys & Emotion,face-concerned
+54,🏀,18,22908.0,1273.0,basketball,Activities,sport
+55,💨,3,21826.0,7275.0,dashing away,Smileys & Emotion,emotion
+56,😍,25,21795.0,872.0,smiling face with heart-eyes,Smileys & Emotion,face-affection
+57,🐻,1,21163.0,21163.0,bear,Animals & Nature,animal-mammal
+58,👉🏻,3,20870.0,6957.0,backhand index pointing right: light skin tone,People & Body,hand-single-finger
+59,💌,12,20784.0,1732.0,love letter,Smileys & Emotion,emotion
+60,🚫,13,20116.0,1547.0,prohibited,Symbols,warning
+61,😏,13,20098.0,1546.0,smirking face,Smileys & Emotion,face-neutral-skeptical
+62,😀,7,18354.0,2622.0,grinning face,Smileys & Emotion,face-smiling
+63,🗣,15,17512.0,1167.0,speaking head,People & Body,person-symbol
+64,👌,8,17360.0,2170.0,OK hand,People & Body,hand-fingers-partial
+65,😆,10,16943.0,1694.0,grinning squinting face,Smileys & Emotion,face-smiling
+66,💜,9,16937.0,1882.0,purple heart,Smileys & Emotion,emotion
+67,💩,30,16665.0,556.0,pile of poo,Smileys & Emotion,face-costume
+68,👏🏾,18,16617.0,923.0,clapping hands: medium-dark skin tone,People & Body,hands
+69,🤷🏽‍♀️,7,16469.0,2353.0,woman shrugging: medium skin tone,People & Body,person-gesture
+70,🖕,16,16413.0,1026.0,middle finger,People & Body,hand-single-finger
+71,🤦🏽‍♀️,7,16141.0,2306.0,woman facepalming: medium skin tone,People & Body,person-gesture
+72,🌺,1,15898.0,15898.0,hibiscus,Animals & Nature,plant-flower
+73,🙏🏾,14,15788.0,1128.0,folded hands: medium-dark skin tone,People & Body,hands
+74,️,15,15484.0,1032.0,,,
+75,💪🏼,7,15271.0,2182.0,flexed biceps: medium-light skin tone,People & Body,body-parts
+76,🛑,6,14022.0,2337.0,stop sign,Travel & Places,transport-ground
+77,😳,10,13960.0,1396.0,flushed face,Smileys & Emotion,face-concerned
+78,💎,8,13638.0,1705.0,gem stone,Objects,clothing
+79,🤭,4,13612.0,3403.0,face with hand over mouth,Smileys & Emotion,face-hand
+80,👉🏽,3,13469.0,4490.0,backhand index pointing right: medium skin tone,People & Body,hand-single-finger
+81,😉,24,13388.0,558.0,winking face,Smileys & Emotion,face-smiling
+82,🎥,1,13241.0,13241.0,movie camera,Objects,light & video
+83,🐾,8,12803.0,1600.0,paw prints,Animals & Nature,animal-mammal
+84,🦅,6,12521.0,2087.0,eagle,Animals & Nature,animal-bird
+85,☠,1,12512.0,12512.0,skull and crossbones,Smileys & Emotion,face-negative
+86,👉,5,12328.0,2466.0,backhand index pointing right,People & Body,hand-single-finger
+87,😅,8,12225.0,1528.0,grinning face with sweat,Smileys & Emotion,face-smiling
+88,💪🏽,14,12046.0,860.0,flexed biceps: medium skin tone,People & Body,body-parts
+89,⚽,4,11790.0,2948.0,soccer ball,Activities,sport
+90,🙌🏽,28,11472.0,410.0,raising hands: medium skin tone,People & Body,hands
+91,🍪,1,11377.0,11377.0,cookie,Food & Drink,food-sweet
+92,💃🏽,1,10630.0,10630.0,woman dancing: medium skin tone,People & Body,person-activity
+93,🎉,7,10622.0,1517.0,party popper,Activities,event
+94,🤐,7,10472.0,1496.0,zipper-mouth face,Smileys & Emotion,face-neutral-skeptical
+95,🤞🏾,1,10440.0,10440.0,crossed fingers: medium-dark skin tone,People & Body,hand-fingers-partial
+96,🖤,17,9941.0,585.0,black heart,Smileys & Emotion,emotion
+97,🙋🏽‍♀️,1,9666.0,9666.0,woman raising hand: medium skin tone,People & Body,person-gesture
+98,🏴‍☠️,6,9534.0,1589.0,pirate flag,Flags,flag
+99,📚,1,9154.0,9154.0,books,Objects,book-paper
+100,📜,1,9154.0,9154.0,scroll,Objects,book-paper
+101,💪,27,8943.0,331.0,flexed biceps,People & Body,body-parts
+102,👊,10,8823.0,882.0,oncoming fist,People & Body,hand-fingers-closed
+103,☕,2,8764.0,4382.0,hot beverage,Food & Drink,drink
+104,📷,4,8631.0,2158.0,camera,Objects,light & video
+105,🎾,19,8617.0,454.0,tennis,Activities,sport
+106,👗,1,8539.0,8539.0,dress,Objects,clothing
+107,✊,13,8454.0,650.0,raised fist,People & Body,hand-fingers-closed
+108,😁,13,8024.0,617.0,beaming face with smiling eyes,Smileys & Emotion,face-smiling
+109,🙃,3,7752.0,2584.0,upside-down face,Smileys & Emotion,face-smiling
+110,📈,5,7747.0,1549.0,chart increasing,Objects,office
+111,💫,2,7737.0,3868.0,dizzy,Smileys & Emotion,emotion
+112,⤵️,3,7665.0,2555.0,right arrow curving down,Symbols,arrow
+113,😢,4,7531.0,1883.0,crying face,Smileys & Emotion,face-concerned
+114,🤑,1,7514.0,7514.0,money-mouth face,Smileys & Emotion,face-tongue
+115,✌🏽,2,7504.0,3752.0,victory hand: medium skin tone,People & Body,hand-fingers-partial
+116,🙏🏽,7,7461.0,1066.0,folded hands: medium skin tone,People & Body,hands
+117,🤦🏽‍♂️,3,7122.0,2374.0,man facepalming: medium skin tone,People & Body,person-gesture
+118,✨,14,7108.0,508.0,sparkles,Activities,event
+119,🤷‍♂️,3,7100.0,2367.0,man shrugging,People & Body,person-gesture
+120,❤,14,7085.0,506.0,red heart,Smileys & Emotion,emotion
+121,🤷,4,6928.0,1732.0,person shrugging,People & Body,person-gesture
+122,📹,1,6685.0,6685.0,video camera,Objects,light & video
+123,🎤,6,6606.0,1101.0,microphone,Objects,music
+124,👍🏾,10,6438.0,644.0,thumbs up: medium-dark skin tone,People & Body,hand-fingers-closed
+125,💖,5,6362.0,1272.0,sparkling heart,Smileys & Emotion,emotion
+126,4⃣,1,6111.0,6111.0,keycap: 4,Symbols,keycap
+127,🐐,4,5647.0,1412.0,goat,Animals & Nature,animal-mammal
+128,🤗,8,5631.0,704.0,hugging face,Smileys & Emotion,face-hand
+129,👸,1,5532.0,5532.0,princess,People & Body,person-role
+130,👻,1,5445.0,5445.0,ghost,Smileys & Emotion,face-costume
+131,🇬🇧,2,5403.0,2702.0,flag: United Kingdom,Flags,country-flag
+132,📸,4,5307.0,1327.0,camera with flash,Objects,light & video
+133,🎧,5,5285.0,1057.0,headphone,Objects,music
+134,🛸,4,5284.0,1321.0,flying saucer,Travel & Places,transport-air
+135,🚚,3,5196.0,1732.0,delivery truck,Travel & Places,transport-ground
+136,🎨,3,5196.0,1732.0,artist palette,Activities,arts & crafts
+137,🙌🏼,8,5118.0,640.0,raising hands: medium-light skin tone,People & Body,hands
+138,🧠,2,5049.0,2524.0,brain,People & Body,body-parts
+139,👌🏽,3,5034.0,1678.0,OK hand: medium skin tone,People & Body,hand-fingers-partial
+140,⬇️,2,4975.0,2488.0,down arrow,Symbols,arrow
+141,🤷🏾‍♂️,10,4879.0,488.0,man shrugging: medium-dark skin tone,People & Body,person-gesture
+142,🙏🏻,2,4734.0,2367.0,folded hands: light skin tone,People & Body,hands
+143,😜,7,4570.0,653.0,winking face with tongue,Smileys & Emotion,face-tongue
+144,🍸,1,4544.0,4544.0,cocktail glass,Food & Drink,drink
+145,🎩,1,4544.0,4544.0,top hat,Objects,clothing
+146,🌎,8,4478.0,560.0,globe showing Americas,Travel & Places,place-map
+147,🐂,2,4412.0,2206.0,ox,Animals & Nature,animal-mammal
+148,🔰,2,4412.0,2206.0,Japanese symbol for beginner,Symbols,other-symbol
+149,👨🏾‍💻,1,4376.0,4376.0,man technologist: medium-dark skin tone,People & Body,person-role
+150,💀,12,4358.0,363.0,skull,Smileys & Emotion,face-negative
+151,📖,3,4306.0,1435.0,open book,Objects,book-paper
+152,✌,7,4231.0,604.0,victory hand,People & Body,hand-fingers-partial
+153,🌴,2,4188.0,2094.0,palm tree,Animals & Nature,plant-other
+154,🤷🏿‍♂️,3,4169.0,1390.0,man shrugging: dark skin tone,People & Body,person-gesture
+155,💛,6,3729.0,622.0,yellow heart,Smileys & Emotion,emotion
+156,🤷🏽‍♂️,2,3685.0,1842.0,man shrugging: medium skin tone,People & Body,person-gesture
+157,👌🏾,6,3628.0,605.0,OK hand: medium-dark skin tone,People & Body,hand-fingers-partial
+158,🎄,1,3621.0,3621.0,Christmas tree,Activities,event
+159,👑,8,3582.0,448.0,crown,Objects,clothing
+160,🔁,3,3513.0,1171.0,repeat button,Symbols,av-symbol
+161,🏃,11,3502.0,318.0,person running,People & Body,person-activity
+162,👩‍💻,2,3464.0,1732.0,woman technologist,People & Body,person-role
+163,😮,2,3464.0,1732.0,face with open mouth,Smileys & Emotion,face-concerned
+164,🙅‍♀️,2,3464.0,1732.0,woman gesturing NO,People & Body,person-gesture
+165,🔗,2,3464.0,1732.0,link,Objects,tool
+166,👩‍🏫,2,3464.0,1732.0,woman teacher,People & Body,person-role
+167,🕶️,2,3464.0,1732.0,sunglasses,Objects,clothing
+168,🕛,2,3464.0,1732.0,twelve o’clock,Travel & Places,time
+169,😠,1,3383.0,3383.0,angry face,Smileys & Emotion,face-negative
+170,✈️,3,3375.0,1125.0,airplane,Travel & Places,transport-air
+171,🤷🏼‍♀️,4,3323.0,831.0,woman shrugging: medium-light skin tone,People & Body,person-gesture
+172,🤷🏻‍♀️,11,3286.0,299.0,woman shrugging: light skin tone,People & Body,person-gesture
+173,⛰,1,3284.0,3284.0,mountain,Travel & Places,place-geographic
+174,📝,1,3262.0,3262.0,memo,Objects,writing
+175,💗,5,3261.0,652.0,growing heart,Smileys & Emotion,emotion
+176,👨‍👩‍👧‍👦,1,2915.0,2915.0,"family: man, woman, girl, boy",People & Body,family
+177,🎶,5,2776.0,555.0,musical notes,Objects,music
+178,🎵,1,2744.0,2744.0,musical note,Objects,music
+179,🙂,1,2744.0,2744.0,slightly smiling face,Smileys & Emotion,face-smiling
+180,🏆,21,2708.0,129.0,trophy,Activities,award-medal
+181,👽,2,2642.0,1321.0,alien,Smileys & Emotion,face-costume
+182,💪🏾,6,2454.0,409.0,flexed biceps: medium-dark skin tone,People & Body,body-parts
+183,❄️,1,2444.0,2444.0,snowflake,Travel & Places,sky & weather
+184,🚂,2,2356.0,1178.0,locomotive,Travel & Places,transport-ground
+185,👍🏻,3,2346.0,782.0,thumbs up: light skin tone,People & Body,hand-fingers-closed
+186,💪🏿,4,2301.0,575.0,flexed biceps: dark skin tone,People & Body,body-parts
+187,😬,3,2204.0,735.0,grimacing face,Smileys & Emotion,face-neutral-skeptical
+188,✊🏼,4,2179.0,545.0,raised fist: medium-light skin tone,People & Body,hand-fingers-closed
+189,💋,6,2072.0,345.0,kiss mark,Smileys & Emotion,emotion
+190,😤,1,2022.0,2022.0,face with steam from nose,Smileys & Emotion,face-negative
+191,🎃,1,1964.0,1964.0,jack-o-lantern,Activities,event
+192,🇲🇽,2,1952.0,976.0,flag: Mexico,Flags,country-flag
+193,💚,6,1935.0,322.0,green heart,Smileys & Emotion,emotion
+194,😐,1,1869.0,1869.0,neutral face,Smileys & Emotion,face-neutral-skeptical
+195,❗,3,1861.0,620.0,exclamation mark,Symbols,other-symbol
+196,🧡,3,1844.0,615.0,orange heart,Smileys & Emotion,emotion
+197,🙏🏼,2,1821.0,910.0,folded hands: medium-light skin tone,People & Body,hands
+198,🍾,1,1745.0,1745.0,bottle with popping cork,Food & Drink,drink
+199,💰,5,1637.0,327.0,money bag,Objects,money
+200,👏🏿,1,1589.0,1589.0,clapping hands: dark skin tone,People & Body,hands
+201,😒,3,1562.0,521.0,unamused face,Smileys & Emotion,face-neutral-skeptical
+202,🌍,2,1556.0,778.0,globe showing Europe-Africa,Travel & Places,place-map
+203,😡,2,1550.0,775.0,pouting face,Smileys & Emotion,face-negative
+204,👇🏽,3,1479.0,493.0,backhand index pointing down: medium skin tone,People & Body,hand-single-finger
+205,🥦,1,1460.0,1460.0,broccoli,Food & Drink,food-vegetable
+206,🌚,2,1411.0,706.0,new moon face,Travel & Places,sky & weather
+207,✊🏻,7,1409.0,201.0,raised fist: light skin tone,People & Body,hand-fingers-closed
+208,📽,1,1357.0,1357.0,film projector,Objects,light & video
+209,🕺🏻,1,1357.0,1357.0,man dancing: light skin tone,People & Body,person-activity
+210,💃,3,1350.0,450.0,woman dancing,People & Body,person-activity
+211,❓,1,1321.0,1321.0,question mark,Symbols,other-symbol
+212,🤩,6,1286.0,214.0,star-struck,Smileys & Emotion,face-affection
+213,⚾,4,1254.0,314.0,baseball,Activities,sport
+214,🏐,3,1244.0,415.0,volleyball,Activities,sport
+215,☘️,1,1194.0,1194.0,shamrock,Animals & Nature,plant-other
+216,🔸,3,1194.0,398.0,small orange diamond,Symbols,geometric
+217,🏝,1,1158.0,1158.0,desert island,Travel & Places,place-geographic
+218,👇🏻,1,1157.0,1157.0,backhand index pointing down: light skin tone,People & Body,hand-single-finger
+219,🦋,1,1137.0,1137.0,butterfly,Animals & Nature,animal-bug
+220,☝️,2,1132.0,566.0,index pointing up,People & Body,hand-single-finger
+221,👋🏾,4,1126.0,282.0,waving hand: medium-dark skin tone,People & Body,hand-fingers-open
+222,🤨,5,1116.0,223.0,face with raised eyebrow,Smileys & Emotion,face-neutral-skeptical
+223,🤯,2,1099.0,550.0,exploding head,Smileys & Emotion,face-unwell
+224,☑️,5,1084.0,217.0,check box with check,Symbols,other-symbol
+225,😱,1,1061.0,1061.0,face screaming in fear,Smileys & Emotion,face-concerned
+226,⚡,4,1047.0,262.0,high voltage,Travel & Places,sky & weather
+227,👮🏻‍♂️,1,1035.0,1035.0,man police officer: light skin tone,People & Body,person-role
+228,🙅,1,1028.0,1028.0,person gesturing NO,People & Body,person-gesture
+229,⛹🏾,1,1020.0,1020.0,person bouncing ball: medium-dark skin tone,People & Body,person-sport
+230,🚶‍♀,1,1020.0,1020.0,woman walking,People & Body,person-activity
+231,🚴🏾‍♀,1,1020.0,1020.0,woman biking: medium-dark skin tone,People & Body,person-sport
+232,🚴,1,1020.0,1020.0,person biking,People & Body,person-sport
+233,🚴🏾,1,1020.0,1020.0,person biking: medium-dark skin tone,People & Body,person-sport
+234,🏃‍♀,1,1020.0,1020.0,woman running,People & Body,person-activity
+235,🏃🏾‍♀,1,1020.0,1020.0,woman running: medium-dark skin tone,People & Body,person-activity
+236,🤾🏾‍♂,1,1020.0,1020.0,man playing handball: medium-dark skin tone,People & Body,person-sport
+237,🚶🏾‍♀,1,1020.0,1020.0,woman walking: medium-dark skin tone,People & Body,person-activity
+238,🏃🏾,1,1020.0,1020.0,person running: medium-dark skin tone,People & Body,person-activity
+239,🚶,1,1020.0,1020.0,person walking,People & Body,person-activity
+240,🚶🏾,1,1020.0,1020.0,person walking: medium-dark skin tone,People & Body,person-activity
+241,⛹🏻,1,1020.0,1020.0,person bouncing ball: light skin tone,People & Body,person-sport
+242,🚴‍♀,1,1020.0,1020.0,woman biking,People & Body,person-sport
+243,🤾‍♂,1,1020.0,1020.0,man playing handball,People & Body,person-sport
+244,🚵🏾,1,1020.0,1020.0,person mountain biking: medium-dark skin tone,People & Body,person-sport
+245,🏸,1,1020.0,1020.0,badminton,Activities,sport
+246,🥈,1,1020.0,1020.0,2nd place medal,Activities,award-medal
+247,🏓,1,1020.0,1020.0,ping pong,Activities,sport
+248,🏉,1,1020.0,1020.0,rugby football,Activities,sport
+249,🏌‍♀,1,1020.0,1020.0,woman golfing,People & Body,person-sport
+250,🥉,1,1020.0,1020.0,3rd place medal,Activities,award-medal
+251,🏌,1,1020.0,1020.0,person golfing,People & Body,person-sport
+252,🚵‍♀,1,1020.0,1020.0,woman mountain biking,People & Body,person-sport
+253,🚵,1,1020.0,1020.0,person mountain biking,People & Body,person-sport
+254,🚵🏾‍♀,1,1020.0,1020.0,woman mountain biking: medium-dark skin tone,People & Body,person-sport
+255,🥇,1,1020.0,1020.0,1st place medal,Activities,award-medal
+256,🤾🏾‍♀,1,1020.0,1020.0,woman playing handball: medium-dark skin tone,People & Body,person-sport
+257,🤾‍♀,1,1020.0,1020.0,woman playing handball,People & Body,person-sport
+258,⏲,1,1017.0,1017.0,timer clock,Travel & Places,time
+259,👈🏻,1,994.0,994.0,backhand index pointing left: light skin tone,People & Body,hand-single-finger
+260,🔛,1,994.0,994.0,ON! arrow,Symbols,arrow
+261,👩,1,981.0,981.0,woman,People & Body,person
+262,👦,1,981.0,981.0,boy,People & Body,person
+263,👨,1,981.0,981.0,man,People & Body,person
+264,👧,1,981.0,981.0,girl,People & Body,person
+265,🤷🏻‍♂️,3,963.0,321.0,man shrugging: light skin tone,People & Body,person-gesture
+266,🥊,3,938.0,313.0,boxing glove,Activities,sport
+267,™️,2,930.0,465.0,trade mark,Symbols,other-symbol
+268,☝🏾,2,866.0,433.0,index pointing up: medium-dark skin tone,People & Body,hand-single-finger
+269,👺,1,838.0,838.0,goblin,Smileys & Emotion,face-costume
+270,🤦‍♀️,1,838.0,838.0,woman facepalming,People & Body,person-gesture
+271,👌🏻,2,804.0,402.0,OK hand: light skin tone,People & Body,hand-fingers-partial
+272,👊🏻,3,797.0,266.0,oncoming fist: light skin tone,People & Body,hand-fingers-closed
+273,😇,2,784.0,392.0,smiling face with halo,Smileys & Emotion,face-smiling
+274,🇱🇷,1,776.0,776.0,flag: Liberia,Flags,country-flag
+275,✌️,5,766.0,153.0,victory hand,People & Body,hand-fingers-partial
+276,🎭,4,766.0,192.0,performing arts,Activities,arts & crafts
+277,😟,1,715.0,715.0,worried face,Smileys & Emotion,face-concerned
+278,😌,1,707.0,707.0,relieved face,Smileys & Emotion,face-sleepy
+279,🙈,2,680.0,340.0,see-no-evil monkey,Smileys & Emotion,monkey-face
+280,🍆,1,678.0,678.0,eggplant,Food & Drink,food-vegetable
+281,😔,1,661.0,661.0,pensive face,Smileys & Emotion,face-sleepy
+282,😫,1,641.0,641.0,tired face,Smileys & Emotion,face-concerned
+283,👏🏼,6,621.0,104.0,clapping hands: medium-light skin tone,People & Body,hands
+284,🤷‍♀️,2,615.0,308.0,woman shrugging,People & Body,person-gesture
+285,🎬,1,607.0,607.0,clapper board,Objects,light & video
+286,✋🏿,1,589.0,589.0,raised hand: dark skin tone,People & Body,hand-fingers-open
+287,💧,1,577.0,577.0,droplet,Travel & Places,sky & weather
+288,🤸🏾‍♀️,1,577.0,577.0,woman cartwheeling: medium-dark skin tone,People & Body,person-sport
+289,☀️,2,572.0,286.0,sun,Travel & Places,sky & weather
+290,😄,3,567.0,189.0,grinning face with smiling eyes,Smileys & Emotion,face-smiling
+291,🤦🏾‍♂️,2,565.0,282.0,man facepalming: medium-dark skin tone,People & Body,person-gesture
+292,🤦🏿‍♂️,2,559.0,280.0,man facepalming: dark skin tone,People & Body,person-gesture
+293,💉,1,553.0,553.0,syringe,Objects,medical
+294,⌛,1,544.0,544.0,hourglass done,Travel & Places,time
+295,🏋🏾‍♀️,1,540.0,540.0,woman lifting weights: medium-dark skin tone,People & Body,person-sport
+296,🏄🏾‍♂️,1,529.0,529.0,man surfing: medium-dark skin tone,People & Body,person-sport
+297,🍕,1,503.0,503.0,pizza,Food & Drink,food-prepared
+298,🙊,1,501.0,501.0,speak-no-evil monkey,Smileys & Emotion,monkey-face
+299,🤤,1,500.0,500.0,drooling face,Smileys & Emotion,face-sleepy
+300,😋,1,468.0,468.0,face savoring food,Smileys & Emotion,face-tongue
+301,💄,2,456.0,228.0,lipstick,Objects,clothing
+302,🧢,1,455.0,455.0,billed cap,Objects,clothing
+303,🇨🇺,1,452.0,452.0,flag: Cuba,Flags,country-flag
+304,❎,1,450.0,450.0,cross mark button,Symbols,other-symbol
+305,5️⃣,1,446.0,446.0,keycap: 5,Symbols,keycap
+306,☁️,1,446.0,446.0,cloud,Travel & Places,sky & weather
+307,😰,1,427.0,427.0,anxious face with sweat,Smileys & Emotion,face-concerned
+308,😛,3,410.0,137.0,face with tongue,Smileys & Emotion,face-tongue
+309,💸,2,410.0,205.0,money with wings,Objects,money
+310,🧗‍♂️,1,409.0,409.0,man climbing,People & Body,person-activity
+311,🏜,1,409.0,409.0,desert,Travel & Places,place-geographic
+312,🧘🏽‍♀️,1,408.0,408.0,woman in lotus position: medium skin tone,People & Body,person-resting
+313,🏃🏻‍♀️,1,408.0,408.0,woman running: light skin tone,People & Body,person-activity
+314,🐴,1,406.0,406.0,horse face,Animals & Nature,animal-mammal
+315,🇯🇲,1,396.0,396.0,flag: Jamaica,Flags,country-flag
+316,💳,2,386.0,193.0,credit card,Objects,money
+317,🤫,4,379.0,95.0,shushing face,Smileys & Emotion,face-hand
+318,❣️,1,374.0,374.0,heart exclamation,Smileys & Emotion,emotion
+319,🤷🏾‍♀️,1,372.0,372.0,woman shrugging: medium-dark skin tone,People & Body,person-gesture
+320,🔈,1,359.0,359.0,speaker low volume,Objects,sound
+321,🤦,1,347.0,347.0,person facepalming,People & Body,person-gesture
+322,😞,1,344.0,344.0,disappointed face,Smileys & Emotion,face-concerned
+323,🇩🇪,2,338.0,169.0,flag: Germany,Flags,country-flag
+324,🎖,2,338.0,169.0,military medal,Activities,award-medal
+325,⛳,1,330.0,330.0,flag in hole,Activities,sport
+326,😹,1,327.0,327.0,cat with tears of joy,Smileys & Emotion,cat-face
+327,💅🏾,1,322.0,322.0,nail polish: medium-dark skin tone,People & Body,hand-prop
+328,👎🏿,2,312.0,156.0,thumbs down: dark skin tone,People & Body,hand-fingers-closed
+329,💃🏾,1,305.0,305.0,woman dancing: medium-dark skin tone,People & Body,person-activity
+330,💁🏼‍♀️,1,297.0,297.0,woman tipping hand: medium-light skin tone,People & Body,person-gesture
+331,🤷🏼‍♂️,1,295.0,295.0,man shrugging: medium-light skin tone,People & Body,person-gesture
+332,🖕🏼,1,294.0,294.0,middle finger: medium-light skin tone,People & Body,hand-single-finger
+333,🏃🏾‍♀️,1,281.0,281.0,woman running: medium-dark skin tone,People & Body,person-activity
+334,🌶,1,269.0,269.0,hot pepper,Food & Drink,food-vegetable
+335,😪,2,254.0,127.0,sleepy face,Smileys & Emotion,face-sleepy
+336,👍🏿,1,251.0,251.0,thumbs up: dark skin tone,People & Body,hand-fingers-closed
+337,💐,2,248.0,124.0,bouquet,Animals & Nature,plant-flower
+338,🌪,2,244.0,122.0,tornado,Travel & Places,sky & weather
+339,🔝,2,235.0,118.0,TOP arrow,Symbols,arrow
+340,👸🏾,1,234.0,234.0,princess: medium-dark skin tone,People & Body,person-role
+341,💁,1,234.0,234.0,person tipping hand,People & Body,person-gesture
+342,🛌,1,232.0,232.0,person in bed,People & Body,person-resting
+343,✌🏼,2,228.0,114.0,victory hand: medium-light skin tone,People & Body,hand-fingers-partial
+344,🤙,1,222.0,222.0,call me hand,People & Body,hand-fingers-partial
+345,🖕🏽,2,210.0,105.0,middle finger: medium skin tone,People & Body,hand-single-finger
+346,🎲,1,207.0,207.0,game die,Activities,game
+347,📦,2,188.0,94.0,package,Objects,mail
+348,🤙🏽,2,184.0,92.0,call me hand: medium skin tone,People & Body,hand-fingers-partial
+349,🌱,2,183.0,92.0,seedling,Animals & Nature,plant-other
+350,🧦,1,183.0,183.0,socks,Objects,clothing
+351,🚀,2,180.0,90.0,rocket,Travel & Places,transport-air
+352,😲,1,171.0,171.0,astonished face,Smileys & Emotion,face-concerned
+353,💻,1,166.0,166.0,laptop computer,Objects,computer
+354,🤞🏼,1,156.0,156.0,crossed fingers: medium-light skin tone,People & Body,hand-fingers-partial
+355,👕,1,153.0,153.0,t-shirt,Objects,clothing
+356,🆒,1,153.0,153.0,COOL button,Symbols,alphanum
+357,💘,2,152.0,76.0,heart with arrow,Smileys & Emotion,emotion
+358,👐🏼,1,152.0,152.0,open hands: medium-light skin tone,People & Body,hands
+359,♥,1,149.0,149.0,heart suit,Activities,game
+360,👍🏽,3,148.0,49.0,thumbs up: medium skin tone,People & Body,hand-fingers-closed
+361,🐇,1,142.0,142.0,rabbit,Animals & Nature,animal-mammal
+362,🔯,1,136.0,136.0,dotted six-pointed star,Symbols,religion
+363,🏯,1,136.0,136.0,Japanese castle,Travel & Places,place-building
+364,🔱,1,136.0,136.0,trident emblem,Symbols,other-symbol
+365,🌐,1,136.0,136.0,globe with meridians,Travel & Places,place-map
+366,👊🏼,1,128.0,128.0,oncoming fist: medium-light skin tone,People & Body,hand-fingers-closed
+367,🙌🏻,2,117.0,58.0,raising hands: light skin tone,People & Body,hands
+368,☄,1,114.0,114.0,comet,Travel & Places,sky & weather
+369,👹,1,114.0,114.0,ogre,Smileys & Emotion,face-costume
+370,💡,2,112.0,56.0,light bulb,Objects,light & video
+371,🍦,1,106.0,106.0,soft ice cream,Food & Drink,food-sweet
+372,🍩,1,106.0,106.0,doughnut,Food & Drink,food-sweet
+373,🍰,1,106.0,106.0,shortcake,Food & Drink,food-sweet
+374,🎮,2,99.0,50.0,video game,Activities,game
+375,❌,1,91.0,91.0,cross mark,Symbols,other-symbol
+376,✂️,1,86.0,86.0,scissors,Objects,office
+377,➖,1,86.0,86.0,minus sign,Symbols,other-symbol
+378,🤷🏿‍♀️,1,86.0,86.0,woman shrugging: dark skin tone,People & Body,person-gesture
+379,➗,1,86.0,86.0,division sign,Symbols,other-symbol
+380,🛡,1,86.0,86.0,shield,Objects,tool
+381,🔪,1,86.0,86.0,kitchen knife,Food & Drink,dishware
+382,🏃🏻‍♂️,1,84.0,84.0,man running: light skin tone,People & Body,person-activity
+383,🤘,1,77.0,77.0,sign of the horns,People & Body,hand-fingers-partial
+384,🤜🏼,1,71.0,71.0,right-facing fist: medium-light skin tone,People & Body,hand-fingers-closed
+385,🤛🏼,1,71.0,71.0,left-facing fist: medium-light skin tone,People & Body,hand-fingers-closed
+386,🎹,1,70.0,70.0,musical keyboard,Objects,musical-instrument
+387,📢,1,70.0,70.0,loudspeaker,Objects,sound
+388,🎸,1,70.0,70.0,guitar,Objects,musical-instrument
+389,💁🏽‍♀️,1,69.0,69.0,woman tipping hand: medium skin tone,People & Body,person-gesture
+390,🏃🏽‍♂️,1,66.0,66.0,man running: medium skin tone,People & Body,person-activity
+391,🏃🏽‍♀️,1,66.0,66.0,woman running: medium skin tone,People & Body,person-activity
+392,👆,1,64.0,64.0,backhand index pointing up,People & Body,hand-single-finger
+393,☝🏽,1,62.0,62.0,index pointing up: medium skin tone,People & Body,hand-single-finger
+394,🙇🏽‍♂️,1,60.0,60.0,man bowing: medium skin tone,People & Body,person-gesture
+395,🐸,1,55.0,55.0,frog,Animals & Nature,animal-amphibian
+396,🌸,1,55.0,55.0,cherry blossom,Animals & Nature,plant-flower
+397,👌🏼,1,55.0,55.0,OK hand: medium-light skin tone,People & Body,hand-fingers-partial
+398,👿,1,54.0,54.0,angry face with horns,Smileys & Emotion,face-negative
+399,⛸,1,53.0,53.0,ice skate,Activities,sport
+400,🏒,1,53.0,53.0,ice hockey,Activities,sport
+401,🐦,1,49.0,49.0,bird,Animals & Nature,animal-bird
+402,📺,1,49.0,49.0,television,Objects,light & video
+403,🏃🏾‍♂️,1,42.0,42.0,man running: medium-dark skin tone,People & Body,person-activity
+404,🔫,2,38.0,19.0,pistol,Objects,tool
+405,👋,1,34.0,34.0,waving hand,People & Body,hand-fingers-open
+406,👯‍♀️,1,32.0,32.0,women with bunny ears,People & Body,person-activity
+407,✌🏾,1,29.0,29.0,victory hand: medium-dark skin tone,People & Body,hand-fingers-partial
+408,🤦🏼‍♀️,1,27.0,27.0,woman facepalming: medium-light skin tone,People & Body,person-gesture
+409,©️,1,23.0,23.0,copyright,Symbols,other-symbol
+410,👍🏼,2,22.0,11.0,thumbs up: medium-light skin tone,People & Body,hand-fingers-closed
+411,🤚🏽,1,19.0,19.0,raised back of hand: medium skin tone,People & Body,hand-fingers-open
+412,⚔️,1,9.0,9.0,crossed swords,Objects,tool
+413,👊🏾,1,8.0,8.0,oncoming fist: medium-dark skin tone,People & Body,hand-fingers-closed
+414,🚢,1,7.0,7.0,ship,Travel & Places,transport-water
+415,🏖,1,7.0,7.0,beach with umbrella,Travel & Places,place-geographic
+416,🐝,1,1.0,1.0,honeybee,Animals & Nature,animal-bug
+417,😴,1,1.0,1.0,sleeping face,Smileys & Emotion,face-sleepy
+418,🧚🏾‍♀️,1,1.0,1.0,woman fairy: medium-dark skin tone,People & Body,person-fantasy
+419,💁🏿‍♀️,1,1.0,1.0,woman tipping hand: dark skin tone,People & Body,person-gesture
+420,🐆,1,1.0,1.0,leopard,Animals & Nature,animal-mammal
